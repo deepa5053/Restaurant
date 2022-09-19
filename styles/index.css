@@ -1,0 +1,32 @@
+h2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    color: #fd49a7;
+    font-size: xx-large;
+}
+.btn{
+    background-color: #fd49a7 ;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 12px;
+    flex-direction: column;
+    font-size: x-large;
+}
+.btn:hover{
+    background-color: black;
+}
+.box-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+h1{
+    color: #fd49a7;
+    display: flex;
+    justify-content: center;
+}
