@@ -1,7 +1,7 @@
 h2{
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: stretch;
     flex-direction: column;
     color: #fd49a7;
     font-size: xx-large;
@@ -24,9 +24,11 @@ h2{
     justify-content: space-between;
     align-items: center;
     flex-direction: row;
+    margin-top: 15%;
 }
 h1{
     color: #fd49a7;
     display: flex;
     justify-content: center;
+    margin-top: 10%;
 }
