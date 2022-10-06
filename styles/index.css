@@ -72,5 +72,67 @@ text-shadow:
 0 0 92px rgb(255, 0, 0),
 0 0 90px rgb(255, 0, 0),
 0 0 120px rgb(255, 0, 0);
+}
+.main{
+display: flex;
+flex-direction: row;
 
+}
+.hours{
+display: flex;
+color: aliceblue;
+font-size: 35px;
+margin-left: 150px;
+margin-top: 150px;
+}
+.hours-1{
+font-size: 20px;
+color: aliceblue;
+margin-left: 150px;
+}
+.add{
+color: aliceblue;
+margin-top: 40px;
+margin-left: 150px;
+font-size: 35px;
+}
+.add-1{
+font-size: 20px;
+color: aliceblue;
+margin-left: 150px;
+}
+.phone{
+color: aliceblue;
+margin-top: 40px;
+margin-left: 150px;
+font-size: 35px;
+}
+.phone-1{
+font-size: 20px;
+color: aliceblue;
+margin-left: 150px;
+}
+.mail{
+color: aliceblue;
+margin-top: 40px;
+margin-left: 150px;
+font-size: 35px;
+}
+.mail-1{
+font-size: 20px;
+color: aliceblue;
+margin-left: 150px;
+}
+.form{
+background-color: #ED2101;
+max-width: 100%;
+width: 500px;
+height: 500px;
+margin-left: 50px;
+margin-top: 150px;
+}
+.touch{
+color: aliceblue;
+font-size: 35px;
+margin-left: 20px;
 }
