@@ -76,7 +76,7 @@ text-shadow:
 .main{
 display: flex;
 flex-direction: row;
-
+justify-content: space-evenly;
 }
 .hours{
 display: flex;
@@ -90,9 +90,13 @@ font-size: 20px;
 color: aliceblue;
 margin-left: 150px;
 }
+.img-add{
+width: 50px;
+height: 40px;
+margin-left: 150px;
+}
 .add{
 color: aliceblue;
-margin-top: 40px;
 margin-left: 150px;
 font-size: 35px;
 }
@@ -101,9 +105,13 @@ font-size: 20px;
 color: aliceblue;
 margin-left: 150px;
 }
+.img-contact{
+margin-left: 150px;
+width: 50px;
+height: 40px;
+}
 .phone{
 color: aliceblue;
-margin-top: 40px;
 margin-left: 150px;
 font-size: 35px;
 }
@@ -112,9 +120,13 @@ font-size: 20px;
 color: aliceblue;
 margin-left: 150px;
 }
+.img-mail{
+margin-left: 150px;
+width: 50px;
+height: 40px;
+}
 .mail{
 color: aliceblue;
-margin-top: 40px;
 margin-left: 150px;
 font-size: 35px;
 }
@@ -127,12 +139,83 @@ margin-left: 150px;
 background-color: #ED2101;
 max-width: 100%;
 width: 500px;
-height: 500px;
-margin-left: 50px;
+height: 700px;
+margin-left: 100px;
 margin-top: 150px;
+border-radius: 20px;
 }
 .touch{
 color: aliceblue;
 font-size: 35px;
-margin-left: 20px;
+margin-left: 30px;
+}
+.name{
+display: flex;
+color: #F8C9D3;
+font-size: 20px;
+margin-left: 30px;
+}
+.name-1{
+display: flex;
+margin-left: 30px;
+width: 100%;
+max-width: 400px;
+height: 30px;
+}
+.e-mail{
+display: flex;
+margin-left: 30px;
+color: #F8C9D3;
+font-size: 20px;
+}
+.e-mail-1{
+display: flex;
+margin-left: 30px;
+width: 100%;
+max-width: 400px;
+height: 30px;
+}
+.contact{
+display: flex;
+margin-left: 30px;
+color: #F8C9D3;
+font-size: 20px;
+}
+.contact-1{
+display: flex;
+margin-left: 30px;
+width: 100%;
+max-width: 400px;
+height: 30px;
+}
+.msg{
+display: flex;
+margin-left: 30px;    
+color: #F8C9D3;
+font-size: 20px;
+}
+.msg-1{
+margin-left: 30px;
+width: 400px;
+height: 100px;
+}
+.btn-1{
+background-color: #F8C9D3;
+color: #ED2101;
+border: #ED2101;
+border-radius: 10px;
+display: flex;
+margin-left: 150px;
+width: 200px;
+height: 75px;
+font-size: 25px;
+align-items: center;
+margin-top: 50px;
+}
+.btn-1:hover{
+background-color: white;
+}
+.map{
+margin-left: 500px;
+margin-top: 100px;
 }
