@@ -73,6 +73,11 @@ text-shadow:
 0 0 90px rgb(255, 0, 0),
 0 0 120px rgb(255, 0, 0);
 }
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
 .main{
 display: flex;
 flex-direction: row;

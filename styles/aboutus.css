@@ -1,0 +1,83 @@
+.logo{
+    position: absolute;
+    left: 8%;
+    top: 8%;
+
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    display: inline-flex;
+    color:#fd49a7;
+
+}
+.nav{
+    position: absolute;
+    right: 10%;
+    top: 8%;
+    display: inline-flex;
+    list-style-type: none;
+
+
+}
+.nav>li{    
+
+    font-weight: 400;
+    font-size: 16px;
+
+    text-align: center;
+    color:#fd49a7;
+    margin-left: 38px;
+}
+.nav>li>button{
+
+    background: #fd49a7;
+    border-radius: 6px;
+    border-color: #FFFFFF;
+    border-style: none;
+    color: #FFFFFF;
+
+}
+a:link,a:active,a:visited,a:hover {
+    text-decoration: none; 
+    color: #FFFFFF;
+
+}
+
+.zoeimg{
+    position: absolute;
+    width: 50%;
+    height: 65%;
+    left: 8%;
+    top: 25%;
+    display:inline-flex;
+}
+.maintitle{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    display: inline-flex;
+    color:#fd49a7;
+}
+.firstpara{
+    position: absolute;
+    display: inline-flex;
+    left: 60%;
+    top: 38%;
+    color:#fd49a7;
+    font-size: 18px;
+
+}
+
+.secondpara{
+    position: absolute;
+    display: inline-flex;
+    left: 60%;
+    top: 50%;
+    color:#fd49a7;
+    font-size: 18px;
+
+}
