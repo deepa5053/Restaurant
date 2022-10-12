@@ -25,6 +25,10 @@ img {
     margin-right: 40px;
 }
 
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
 .Nav-bar ul {
     display: flex;
     flex-direction: row;
