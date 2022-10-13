@@ -231,3 +231,29 @@ margin-top: 100px;
 width: 100%;
 margin-right: 50px;
 }
+.Footer {
+    position: absolute;
+}
+
+.Logos {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 65rem;
+    text-align: end;
+    margin-left: 50rem;
+}
+
+.Twitter {
+    height: 130px;
+    width: auto;
+}
+
+.Mail {
+    height: 120px;
+    width: auto;
+}
+
+.Instagram {
+    height: 120px;
+    width: auto;
+}
