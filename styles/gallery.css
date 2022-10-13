@@ -25,10 +25,6 @@ img {
     margin-right: 40px;
 }
 
-a, a:hover, a:focus, a:active {
-    text-decoration: none;
-    color: inherit;
-}
 .Nav-bar ul {
     display: flex;
     flex-direction: row;
@@ -131,7 +127,7 @@ a, a:hover, a:focus, a:active {
 
 .Quote {
     position: absolute;
-    margin-left: 63px;
+    margin-left: 108px;
     margin-top: 117px;
 }
 
@@ -146,7 +142,7 @@ a, a:hover, a:focus, a:active {
 
 .Quote-2 {
     position: absolute;
-    margin-left: 64rem;
+    margin-left: 74rem;
     margin-top: 100px;
 }
 
@@ -156,7 +152,7 @@ a, a:hover, a:focus, a:active {
     width: 600px;
     background-color: #fd49a7;
     margin-top: 270px;
-    margin-left: 353px;
+    margin-left: 467px;
     box-shadow: 12px 12px 8px white;
 }
 
@@ -249,7 +245,7 @@ a, a:hover, a:focus, a:active {
 }
 
 .Image-list {
-    margin-left: 20px;
+    margin-left: 110px;
     margin-top: 20px;
 }
 
@@ -260,7 +256,7 @@ a, a:hover, a:focus, a:active {
 }
 
 .Image-foam {
-    margin-left: 670px;
+    margin-left: 780px;
     margin-top: -395px;
 }
 
@@ -283,12 +279,12 @@ a, a:hover, a:focus, a:active {
 .Image-1 {
     display: flex;
     margin-top: 600px;
-    margin-left: -900px;
+    margin-left: -65rem;
 }
 
 .Text-3 {
     display: flex;
-    margin-left: -900px;
+    margin-left: -65rem;
 }
 
 .Image-2 {
@@ -303,30 +299,6 @@ a, a:hover, a:focus, a:active {
 .Text-4 {
     display: flex;
     margin-left: -480px;
-}
-
-.Menu-5 {
-    display: flex;
-    align-items: flex-end;
-}
-
-.Tea-title {
-    display: flex;
-    margin-left: -600px;
-    margin-top: -200px;
-}
-
-.Text:hover {
-    color: #ED2101;
-    text-shadow:
-        0 0 7px #fff,
-        0 0 10px #fff,
-        0 0 21px #fff,
-        0 0 42px rgb(255, 0, 0),
-        0 0 82px rgb(255, 0, 0),
-        0 0 92px rgb(255, 0, 0),
-        0 0 90px rgb(255, 0, 0),
-        0 0 120px rgb(255, 0, 0);
 }
 
 .Footer {
